@@ -1,10 +1,7 @@
-# linuxtips-curso-containers-vpc
-Repositório da aula de VPV do custo de formação de containers na AWS
-
 <!-- BEGIN_TF_DOCS -->
 # Curso de Arquitetura de Containers na AWS - Aula 01 - VPC
 
-> Exemplos da implementação da aula sobre VPC's de alta disponibilidade para plataformas de containers na AWS
+> Exemplos de implementação dos exercícios desenvolvidos na aula sobre criação e planejamento de VPC's de alta disponibilidade para arquiteturas de containers
 
 ## Requirements
 
